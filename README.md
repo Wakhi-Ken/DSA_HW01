@@ -16,4 +16,4 @@ The `UniqueIntProcessor` is a Python program designed to read a list of integers
 - Python 3.x
 
 ## Usage
-run = **uniquinet.py**
+run = **python uniquinet.py or python3 uniquinet.py**
